@@ -116,7 +116,7 @@ a:active,a:hover {
 h1 {
 	font-size:2em;
 	margin:0.67em 0;
-	color:#353535;
+	color:#EBEBDF;
 }
 h2 {
 	font-size:1.5em;
@@ -453,8 +453,8 @@ table {
 }
 /* ==========================================================================Hero========================================================================== */
 .hero {
-	background: url('../img/header-bg.jpg') right bottom no-repeat;
-	background-size: contain;
+	background: url('../img/My_Background.jpg') right bottom no-repeat;
+	background-size: 100%;
 	padding:110px 0 100px 0;
 	height:auto;
 	background-color: #FBFBFB;
