@@ -125,6 +125,7 @@ h2 {
 h3 {
 	font-size:1.17em;
 	margin:1em 0;
+	color : #EBEBDF;
 }
 h4 {
 	font-size:1em;
@@ -329,7 +330,7 @@ table {
 	outline:none!important;
 }
 .menu-wrap a:hover,.menu-wrap a:focus {
-	color: #E04343;
+	color: #ddfe19;
 }
 .content-wrap {
 	overflow-y:scroll;
@@ -476,7 +477,7 @@ table {
 	margin:0;
 	padding:0;
 	opacity:0.5;
-	color: #E04343;
+	color: #EBEBDF;
 	letter-spacing: 18px;
 	line-height: 50px;
 	text-transform: uppercase;
